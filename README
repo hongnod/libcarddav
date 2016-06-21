@@ -1,0 +1,20 @@
+libcarddav Version 0.1.0
+
+These are the feature so far
+  - Support for VEVENT
+     - Add. Add a new event to the collection
+	 - Get. Get one or more events from the collection
+	 - Getall. Get all events from the collection
+	 - Modify. Modify an event
+	 - Delete. Delete an event
+	 - GetCardName. Get the display name from the collection
+	 - IsCardDAV. Test whether a given URL represents a CardDAV collection
+
+See INSTALL for further information.
+
+For an overview of the current status and future feature implementation
+study the TODO file.
+
+Happy Hacking
+Timothy Pearson (kb9vqf@pearsoncomputing.net)
+Michael Rasmussen (mir@datanom.net)
